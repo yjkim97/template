@@ -2,51 +2,34 @@
   "basics": {
     "name": "YuJin Kim",
     "label": "Student",
-    "picture": "https://yjkim97.github.io/images/molly.png",
+    "picture": "https://yjkim97.github.io/images/21100425_1808491902524857_238109607_n.jpg",
     "email": "kimyujin@hawaii.edu",
     "phone": "808-349-2329",
     "website": "https://yjkim97.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "91-211 Hoopohu Pl",
+      "postalCode": "96706",
+      "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "yjkim97",
+        "url": "http://github.com/yjkim97"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "yujinkim",
+        "url": "http://linkedin.com/in/yujin-kim-781751146"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "c programming",
       "keywords": [
       ]
     },
