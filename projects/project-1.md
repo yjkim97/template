@@ -11,7 +11,7 @@ labels:
 summary: My team developed a karaoke machine for my ICS 111 class.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Project1a.png">
   <img class="ui image" src="../images/Project1b.png">
   <img class="ui image" src="../images/Project1c.png">
