@@ -29,12 +29,12 @@
   },
   "interests": [
     {
-      "name": "c programming",
+      "name": "C Programming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial intelligence",
       "keywords": [
       ]
     }
@@ -48,7 +48,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
+        "PROLOG",
         "Common Lisp"
       ]
     },
@@ -59,88 +59,56 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Atom",
+        "IntelliJ"
+        "Eclipse"
+        "Linux"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2019)",
+      "studyType": "B.A.",
+      "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "University of Hawaii Foundation",
+      "position": "Call Center Supervisor",
+      "website": "www.uhfoundation.org",
+      "startDate": "2016-09-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Supervisor for a calling team",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Supervise the calling team to ensure our goals are being met every day",
+        "Motivate and develop students to be excellent callers."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Arnold Air Society",
+      "position": "Squadron Commander",
+      "startDate": "2017-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Commander of the Lt. Col. Horace M. Hickam Squadron",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Help advocate the support of aerospace power through community service",
+        "Develop cadets into better officers for the Air Force through personal and professional development"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "AFROTC Commanders Leadership Scholarship",
+      "date": "2015-Present",
+      "awarder": "University of Hawaii Detachment 175 Commander",
+      "summary": "Scholarship awarded to an incoming college student based on major, GPA, physical fitness, and an interview."
     }
   ],
   "references": [
