@@ -21,3 +21,5 @@ Our program allowed the user to choose between 3 different levels, each with an 
 <img class="ui image" src="{{ site.baseurl }}/images/Project3c.png">
 
 This project involved a lot of recursion. Once someone clicked on an open field, recursion was used to check the surrounding buttons. Because Mine Sweeper will automatically clear any empty spaces that are adjacent to the button pressed, it was difficult to replicate that using recursion. Thankfully, my partner was very familiar with the concept so she was able to figure it out. As for me, I was very good at working with GUI's. Our strengths were able to cover our weaknesses and this project turned out to be a success. 
+
+Source code [here](https://github.com/yjkim97/yjkim97.github.io/tree/master/minesweeper/MineSweeper%20Beta/src).
