@@ -1,60 +1,23 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/Project3a.png
+title: MineSweeper
+permalink: projects/minesweeper
+date: 2016
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - GUI
+summary: A MineSweeper game developed using GUI's
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Project3a.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For my ICS 211 class, I worked with another student to create a MineSweeper game through GUI's.
 
-To give you a flavor of the game, here is an excerpt from one run:
+Our program allowed the user to choose between 3 different levels, each with an increased amount of buttons and mines. Once the game starts, a timer will keep track of how long it takes to either win the game or lose. The program also kept track of the previous attempts and their scores.
 
-<hr>
+<img class="ui image" src="{{ site.baseurl }}/images/Project3b.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Project3c.png">
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+This project involved a lot of recursion. Once someone clicked on an open field, recursion was used to check the surrounding buttons. Because Mine Sweeper will automatically clear any empty spaces that are adjacent to the button pressed, it was difficult to replicate that using recursion. Thankfully, my partner was very familiar with the concept so she was able to figure it out. As for me, I was very good at working with GUI's. Our strengths were able to cover our weaknesses and this project turned out to be a success. 
