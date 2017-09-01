@@ -12,11 +12,11 @@ labels:
 summary: I created an interactive novel/game over the summer of 2016.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Project2a.png">
-<img class="ui medium right floated rounded image" src="../images/Project2b.png">
-<img class="ui medium right floated rounded image" src="../images/Project2c.png">
-<img class="ui medium right floated rounded image" src="../images/Project2d.png">
-<img class="ui medium right floated rounded image" src="../images/Project2e.png">
+<img class="ui medium right rounded image" src="../images/Project2a.png">
+<img class="ui medium right rounded image" src="../images/Project2b.png">
+<img class="ui medium right rounded image" src="../images/Project2c.png">
+<img class="ui medium right rounded image" src="../images/Project2d.png">
+<img class="ui medium right rounded image" src="../images/Project2e.png">
 
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
