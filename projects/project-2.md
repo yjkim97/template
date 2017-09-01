@@ -25,13 +25,13 @@ After reaching maximum fitness, the character finds himself blocked by a gategua
 
 <img class="ui medium center rounded image" src="../images/Project2d.png">
 
-Once entered, the character will go through a series of floors that challenges the player in keyboard dexterity and decision making skills. Soon enough, they run into the females parents who interrogates the player until they answer every question correctly. 
-
 <img class="ui medium left floated rounded image" src="../images/Project2e.png">
 
-Once at the top of the tower, the character will find that his evil twin is there. The player will find themselves in the position of the female character, and must make a decision on who to shoot down. 
+Once entered, the character will go through a series of floors that challenges the player in keyboard dexterity and decision making skills. Soon enough, they run into the females parents who interrogates the player until they answer every question correctly. 
 
 <img class="ui medium right floated rounded image" src="../images/Project2f.png">
+
+Once at the top of the tower, the character will find that his evil twin is there. The player will find themselves in the position of the female character, and must make a decision on who to shoot down. 
 
 Depending on which character is shot, the ending credits will be different. 
 
