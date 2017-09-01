@@ -23,7 +23,7 @@ The program has 5 stages. The first stage revolves around getting the protagonis
 
 After reaching maximum fitness, the character finds himself blocked by a gateguard and must answer a set of questions correctly in order to pass.
 
-<img class="ui medium right rounded image" src="../images/Project2d.png">
+<img class="ui medium center rounded image" src="../images/Project2d.png">
 
 Once entered, the character will go through a series of floors that challenges the player in keyboard dexterity and decision making skills. Soon enough, they run into the females parents who interrogates the player until they answer every question correctly. 
 
