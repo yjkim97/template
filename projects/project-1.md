@@ -6,10 +6,9 @@ title: KaraokePro3000
 permalink: projects/karaokepro
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Eclipse
+summary: My team developed a karaoke machine for my ICS 111 class.
 ---
 
 <div class="ui small rounded images">
@@ -18,11 +17,8 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/Project1c.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+KaraokePro3000 is a program created by myself and three other members of my ICS 111 class. We used Java as the language and utilitzed a class file called EZ.java. EZ.java is a file that was made and distributed by a graduate student from the University of Hawaii, which allowed a very easy access to manipulating images. By utilitizing this class, we were able to make a karaoke machine that could play a certain amount of songs in the data base, print out a score, and keep track of previous scores. After each run through of a song, a random number would be printed out with a comment on the score. We decided to print a random number, mainly because we felt that karaoke machines did not really evaluate a persons singing. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I helped design the main menu of the program. For having no programming experience except for the semester I had of ICS 11, it was a challenge. The menu had to be able to navigate through different pages that allowed the user to run the program. Not only that, I also added music and animation to the title screen. Finally, each of us were in charge of adding two songs to our database. Each song had to have the lyrics printed on the screen, and had to be timed perfectly so that the user had enough time to read off of it. At some points, songs would have pauses where there would be no lyrics, so we would have to account for that. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+Overall, this program was a success. If this project was worked on a bigger scale, we would be able to add a lot more songs, which would allow it to be more useful for a wider variety of users. 
