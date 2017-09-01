@@ -13,18 +13,26 @@ summary: I created an interactive novel/game over the summer of 2016.
 ---
 
 <img class="ui large middle rounded image" src="../images/Project2a.png">
+
+Epoch of YuJin is a program that I created over the summer after my first year of ICS classes. It is an interactive novel/adventure game that revolves around a male protagonist who has to save a female character from a tower. This program was created in Java, and utilized a class called EZ.java which is a class created by a graduate student form the University of Hawaii. 
+
+The program has 5 stages. The first stage revolves around getting the protagonist fit enough to rescue the female. With every click, the character did more workouts and became stronger.
+
 <img class="ui medium right floated rounded image" src="../images/Project2c.png">
 <img class="ui medium right rounded image" src="../images/Project2b.png">
+
+After reaching maximum fitness, the character finds himself blocked by a gateguard and must answer a set of questions correctly in order to pass.
+
 <img class="ui medium right rounded image" src="../images/Project2d.png">
-<img class="ui medium right rounded image" src="../images/Project2e.png">
 
+Once entered, the character will go through a series of floors that challenges the player in keyboard dexterity and decision making skills. Soon enough, they run into the females parents who interrogates the player until they answer every question correctly. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+<img class="ui medium left floated rounded image" src="../images/Project2e.png">
+
+Once at the top of the tower, the character will find that his evil twin is there. The player will find themselves in the position of the female character, and must make a decision on who to shoot down. 
 
 <img class="ui medium right floated rounded image" src="../images/Project2f.png">
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Depending on which character is shot, the ending credits will be different. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This program consisted of over 14000 lines of code. Everything from the art to the animations were created by me, with the help of the EZ.java class. Music was also selected and used to enhance the experience. This project took approximately 2 months to carry out.
