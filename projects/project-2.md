@@ -13,9 +13,9 @@ summary: I created an interactive novel/game over the summer of 2016.
 ---
 
 <img class="ui medium right rounded image" src="../images/Project2a.png">
-<img class="ui medium right rounded image" src="../images/Project2b.png">
+<img class="ui medium right floated rounded image" src="../images/Project2b.png">
 <img class="ui medium right rounded image" src="../images/Project2c.png">
-<img class="ui medium right rounded image" src="../images/Project2d.png">
+<img class="ui medium right floated rounded image" src="../images/Project2d.png">
 <img class="ui medium right rounded image" src="../images/Project2e.png">
 
 
