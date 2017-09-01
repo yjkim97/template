@@ -13,6 +13,7 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
 ---
 
 <div class="ui small rounded images">
+  <img class="ui image" src="../images/Project1a.png">
   <img class="ui image" src="../images/Project1b.png">
   <img class="ui image" src="../images/Project1c.png">
 </div>
