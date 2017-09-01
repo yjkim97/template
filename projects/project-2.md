@@ -40,3 +40,5 @@ Once at the top of the tower, the character will find that his evil twin is ther
 Depending on which character is shot, the ending credits will be different. 
 
 This program consisted of over 14000 lines of code. Everything from the art to the animations were created by me, with the help of the EZ.java class. Music was also selected and used to enhance the experience. This project took approximately 2 months to carry out.
+
+Find the source code [here](yjkim97.github.io/epochofyujin/Main.java).
