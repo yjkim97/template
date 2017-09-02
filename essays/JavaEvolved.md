@@ -8,6 +8,8 @@ labels:
   - Javascript
 ---
 
+## The Beginning
+
 <img class="ui medium left floated image" src="../images/helloworld.png">
 
 One of my favorite languages will always be Java but not because of its abilities or characteristics. Being the first language I learned, Java has a special place in my heart. It was fairly easy to grasp and I was able to learn the ins and outs of the language in a very proficient timeline. When I first learned Computer Science, I did not think it was possible to find a language that would be as simple as Java. Although C and C++ felt more logical and intuitive, it was also more complicated. Lisp and PROLOG had their own strengths and weaknesses, but I didn’t see any practical use for it outside of the subject of Artificial Intelligence. However, one thing I enjoyed about using Lisp was how easy it was to manipulate lists and arrays. At that point, I realized that there are programming languages out there that could make my life a whole lot simpler.
