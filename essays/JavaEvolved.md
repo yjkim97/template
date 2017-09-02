@@ -32,7 +32,7 @@ Learning the basics of Javascript was very easy to learn and follow. The concept
 
 One of the ways I am being trained to think in Javascript is through an athletic software engineering method called "Workout of the Day," or WOD's. A WOD is a timed exercise where I have to create a code that can solve a certain problem in a short manner of time. So far, I have done 1 WOD and I did it in a very good time.
 
-<img class="ui medium left floated image" src="../images/helloworld.png">
+<img class="ui medium left floated image" src="../images/angry.jpg">
 This form of practice helps me a lot. I feel that because this is a timed exercise, I know that I will not have much time to think about the problem, which means that I must be at a level where I can evaluate a problem quickly and be able to come up with a solution very fast. This forces me to ensure that I come to every WOD confident in my abilities, and the only way to achieve that is through practice. 
 
 The most nerve wracking part of taking a WOD is sitting in the room before the question is given. I wonder if all the practice WOD's I have been doing will be easier or harder than the one that will be given to me soon. I wonder what will happen when I get the problem and I have no idea what to do, although the answer may be obvious. I fear that I may make a silly syntax error, and completely fail the WOD. However, once I receive the WOD, I tend to think "this isn't so bad" and I start typing away to victory. 
