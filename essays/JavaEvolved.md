@@ -16,7 +16,7 @@ I’ve heard about Python and other new hip languages out there that everyone is
 
 Javascript felt like a dream to me at first. To start off, creating functions was a breeze. This was mainly due to the fact that Javascript does not require a defined return type when creating the function. This allows tremendous flexibility that I have not felt in a while. To elaborate, this meant that the user can input a string and return an integer, or input any type of variable and return anything else. I feel that this would be very useful in catching user error, as the system won’t crash if the user inputs something that isn’t valid. It also allows one function to be used for any input or output type, which I find to be fabulous and very efficient.
 
-<img class="ui medium left floated image" src="../images/js.jpg">
+<img class="ui medium right floated image" src="../images/js.jpg">
 
 Another feature that I fell in love with is the ability to create variables without defining the type. This allows further flexibility when manipulating variables, so switching from strings to integers is a breeze. Less variables are initialized because of this feature, which saves time and decreases the number of variables that the programmer must keep track of. Furthermore, it will reduce the memory used to hold these variables.
 
