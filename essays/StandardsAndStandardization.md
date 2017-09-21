@@ -11,9 +11,9 @@ labels:
 
 ## Standardization
 
-<img class="ui medium left floated image" src="../images/helloworld.png">
-
 Two things that are greatly stressed in the Air Force Reserve Officer Training Corps are attention to detail and standardization. Countless hours have been put into making sure that we are all standardized in every small aspect we could think of. Every semester, we create a document called a Standardization Policy that consists of multiple pages explaining how we do things such as what color watches we wear, how we put down our water bottles in the football field, which pocket we put our pens in, and how we hold certain items while in formation. Everything needs to be standardized, and that is the standard. What is the training value behind that? Several. One of them is that we need to have that attention to detail in the small things so that we can do bigger things, such as outranking 80% of the Air Force on our first day in Active Duty, or leading an operation involving months of mission planning and split second decisions. Bottom line, the small things matter. 
+
+<img class="ui medium left floated image" src="../images/ROTC.jpg">
 
 Over the summer of 2017, I went to Mississippi and Alabama for a 3-4 week training session called Leadership Evaluation and Development. Simply put, it was Basic Training for officers. There were 7 different sessions that happened over the summer, each session having approximately 320 cadets from around the nation. Within those 170, we were all compiled into about 16 groups called “Flights”, consisting of 20 cadets each. As you can probably imagine, having 320 people in one training space made it complete chaos. Within that pandemonium, we were still tasked to keep track of everyone within our flights. We made this easy by putting bacon patterned duct tape on our bags. This simple standardization allowed us to pinpoint anyone from our flight from across the solar system, saving us a lot of stress.
 
