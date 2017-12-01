@@ -19,7 +19,7 @@ Therefore, thinking of ethical decisions can be very overwhelming if it was appl
 
 ## Programming Dilemmas
 
-<img class="ui medium left floated image" src="https://www.franksonnenbergonline.com/wp-content/uploads/2014/08/image_have-to-vs-want-to.jpg">
+<img class="ui medium right floated image" src="https://www.franksonnenbergonline.com/wp-content/uploads/2014/08/image_have-to-vs-want-to.jpg">
 
 In the article called “ Why Self-Driving Cars Must Be Programmed to Kill” by MIT Technology Review talks about an ethical dilemma where self driving cars need to choose between killing the owner/driver of the car or the lives of numerous other people. What a dilemma. When I asked my friends, all of them humbly stated that if they were the programmer, they would make sure the car killed the driver. But how many people would actually buy a car knowing that it is designed to kill them? Not much. The dilemma now is the ethics between marketing and safety. Should a company cause the car to hit the pedestrians so that they could market the car better? If so, is that car really safe? And if self driving cars were programmed to kill the driver and no one bought them, would the roads be any safer? Either way, it seems as if people’s lives will be in danger.
 
