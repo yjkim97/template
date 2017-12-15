@@ -82,11 +82,11 @@
       "startDate": "2015-09-01",
       "endDate": "Present",
       "courses": [
-          "Discrete Mathematics"
-          "Software Engineering"
-          "Security and Trust"
-          "Data Storage and Retrieval"
-          "Data Security and Cryptography"
+          "Discrete Mathematics",
+          "Software Engineering",
+          "Security and Trust",
+          "Data Storage and Retrieval",
+          "Data Security and Cryptography",
           "Artificial Intelligence Programming"
       ]
     }
