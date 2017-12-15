@@ -55,6 +55,7 @@
         "Javascript",
         "PROLOG",
         "Common Lisp"
+        "HTML"
       ]
     },
     {
@@ -69,6 +70,7 @@
         "Eclipse",
         "Linux",
         "Windows"
+        "Meteor"
       ]
     }
   ],
@@ -79,6 +81,14 @@
       "studyType": "B.A.",
       "startDate": "2015-09-01",
       "endDate": "Present",
+      "courses": [
+          "Discrete Mathematics"
+          "Software Engineering"
+          "Security and Trust"
+          "Data Storage and Retrieval"
+          "Data Security and Cryptography"
+          "Artificial Intelligence Programming"
+      ]
     }
   ],
   "work": [
@@ -90,8 +100,9 @@
       "endDate": "Present",
       "summary": "Supervisor for a calling team",
       "highlights": [
-        "Supervise the calling team to ensure our goals are being met every day",
-        "Motivate and develop students to be excellent callers."
+        "Supervise the calling team to ensure our goals are being met every day.",
+        "Motivate and develop students to be excellent callers.",
+        "Personally raised over $50,000 for the univeristy."
       ]
     }
   ],
@@ -101,10 +112,11 @@
       "position": "Squadron Commander",
       "startDate": "2017-05-01",
       "endDate": "Present",
-      "summary": "Commander of the Lt. Col. Horace M. Hickam Squadron",
+      "summary": "Commander of the Lt. Col. Horace M. Hickam Squadron.",
       "highlights": [
-        "Help advocate the support of aerospace power through community service",
-        "Develop cadets into better officers for the Air Force through personal and professional development"
+        "Help advocate the support of aerospace power through community service.",
+        "Lead development of cadets to become better officers for the Air Force through personal and professional development.",
+        "Spearheaded the accumulation of over 1000 hours of professional development and service hours for FY 2018."
       ]
     }
   ],
