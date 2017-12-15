@@ -13,8 +13,9 @@ labels:
 summary: We created a math game application for UH Manoa students.
 ---
 
+<div class="ui rounded image">
 <img class="ui image" src="../images/finished-landing-page.png">
-
+</div>
 Math-Rush is an application made for UH Manoa students who are looking to find alternative ways to study math. Math Rush provides users a way to find subjects based on what they are learning and play several different games. 
 
 <img class="ui image" src="../images/finished-profile-page.png">
