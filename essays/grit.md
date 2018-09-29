@@ -18,7 +18,7 @@ I spent a few years training to become an officer in the Air Force, and I am sti
 
 Not all cadets make it through. Some find that the training environment isn't for them. Some get disqualified for medical reasons. But the greatest reason why most people drop out is their lack of grit.
 
-Those who are usually ranked lower in their group have a tendency to become complancent. They believe it is alright to strive for the minimum. They believe that with the effort they are putting now, they will still end up in the worlds greatest Air Force. However, they quickly come to realize that the military can not afford to have mediocre people. They also realize that without the work ethic, they do not have the motivation to work harder. Soon, they drop out and find another career.
+Those who are usually ranked lower in their group have a tendency to become complacent. They believe it is alright to strive for the minimum. They believe that with the effort they are putting now, they will still end up in the worlds greatest Air Force. However, they quickly come to realize that the military can not afford to have mediocre people. They also realize that without the work ethic, they do not have the motivation to work harder. Soon, they drop out and find another career.
 
 You may be thinking, what does this have to do with anything? When it comes to programming and the subject of Computer Science, I felt that grit also plays a big role. Learning Computer Science takes a lot of time and effort. New things are being discovered every day due to its very young age, and it's one of the few sciences that is man made. One can not become a great programmer over night, and it takes consistant motivation and effort to become a great programmer.
 
