@@ -26,5 +26,4 @@ Here is the actual image of Kara, my model.
 
 Definitely one of my most rewarding projects. While a program like this may not have any practical application in the real world, it allowed me to get a more in-depth experience with Assembly. Since this application utilizes several different programs, it was crucial that each component of this project worked perfectly. For example, my code to translate the color pixels to values had to perform properly so that I could pipe those outputs to my ASCII art creator.
 
-View the github.io page [here](https://hexokinase.github.io/).
-Or view the source code [here](https://github.com/hexokinase/math-rush).
+View the source code [here](https://github.com/yjkim97/pic2ascii).
