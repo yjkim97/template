@@ -8,13 +8,13 @@ date: 2018
 labels:
   - Assembly
   - C
-summary: I created a program that converts a png file to ASCII art.
+summary: I created a program that converts a .png file to ASCII art.
 ---
 
 <div class="ui rounded image">
+  ASCII Art Creator turns any .png file into a beautiful ASCII art.
 <img class="ui image" src="../images/rgb2ascii.png">
 </div>
-ASCII Art Creator turns any .png file into a beautiful ASCII art.
 
 This application analyzes the RGB patterns of a picture. After turning the colors into numerics based on their brightness, this application then turns each value into a given ascii character. Numbers representing darker colors will be translated to "filling" characters such as 'X'. Pixels with lighter colors are translated to smaller characters such as ','.
 
