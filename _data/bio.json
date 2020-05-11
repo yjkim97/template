@@ -116,16 +116,15 @@
       ]
     },
     {
-      "company": "University of Hawaii Foundation",
-      "position": "Call Center Supervisor",
-      "website": "https://www.uhfoundation.org/impact/students/professor-makes-profound-impact",
-      "startDate": "2016-09-15",
-      "endDate": "2019-05-08",
-      "summary": "Supervisor for a calling team",
+      "company": "University of Hawaii",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2017-10",
+      "endDate": "2019-05",
+      "summary": "Researched drone vulnerabilities for the Cyber Spectrum Collaborative Research Environment (C-SCoRE) program",
       "highlights": [
-        "Supervise the calling team to ensure our goals are being met every day.",
-        "Motivate, train, and develop students to be excellent callers.",
-        "Personally raised over $100,000 for the university over the phone."
+        "Researched hijacking methods to exploit civilian drones connected to WiFi.",
+        "Sniff data packets and analyze collected information to find vulnerabilities in drone connections",
+        "Extensive use of Kali Linux and other sniffing/exploitation tools."
       ]
     }
   ],
