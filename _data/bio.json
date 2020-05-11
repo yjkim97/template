@@ -123,7 +123,7 @@
       "summary": "Researched drone vulnerabilities for the Cyber Spectrum Collaborative Research Environment (C-SCoRE) program",
       "highlights": [
         "Researched hijacking methods to exploit civilian drones connected to WiFi.",
-        "Sniff data packets and analyze collected information to find vulnerabilities in drone connections",
+        "Sniff data packets and analyze collected information to find vulnerabilities in drone connections.",
         "Extensive use of Kali Linux and other sniffing/exploitation tools."
       ]
     }
