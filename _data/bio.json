@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "YuJin Kim",
-    "label": "Student",
-    "picture": "https://yjkim97.github.io/images/21100425_1808491902524857_238109607_n.jpg",
-    "email": "kimyujin@hawaii.edu",
+    "name": "Yu Jin Kim",
+    "label": "2d Lt, USAF",
+    "picture": "https://yjkim97.github.io/images/yujin.jpg",
+    "email": "yjkim97@gmail.com",
     "phone": "808-349-2329",
     "website": "https://yjkim97.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am a 2d Lt in the USAF, preparing to become a Cyber Operations Officer.",
     "location": {
-      "address": "91-211 Hoopohu Pl",
-      "postalCode": "96706",
-      "city": "Ewa Beach",
+      "address": "1914 Arbor View Cir",
+      "postalCode": "39540",
+      "city": "D'Iberville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Mississippi"
     },
     "profiles": [
       {
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
@@ -55,7 +55,9 @@
         "Javascript",
         "PROLOG",
         "Common Lisp",
-        "HTML"
+        "HTML",
+        "Python",
+        "Powershell"
       ]
     },
     {
@@ -64,12 +66,13 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Linux",
+        "Windows",
+        "Kali",
         "Git/GitHub",
         "Atom",
         "IntelliJ",
         "Eclipse",
-        "Linux",
-        "Windows",
         "Meteor"
       ]
     }
@@ -77,14 +80,21 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
+      "area": "Computer Science",
       "studyType": "B.A.",
       "startDate": "2015-09-01",
-      "endDate": "Present",
+      "endDate": "2019-05-11",
       "courses": [
           "Discrete Mathematics",
           "Software Engineering",
           "Security and Trust",
+          "Computer Security",
+          "Program Structure",
+          "Operating Systems",
+          "Computer Ethics",
+          "Digital Forensics",
+          "Data Networks",
+          "Machine Level & Systems Programming",
           "Data Storage and Retrieval",
           "Data Security and Cryptography",
           "Artificial Intelligence Programming"
@@ -95,14 +105,14 @@
     {
       "company": "University of Hawaii Foundation",
       "position": "Call Center Supervisor",
-      "website": "www.uhfoundation.org",
+      "website": "https://www.uhfoundation.org/impact/students/professor-makes-profound-impact",
       "startDate": "2016-09-15",
-      "endDate": "Present",
+      "endDate": "2019-05-08",
       "summary": "Supervisor for a calling team",
       "highlights": [
         "Supervise the calling team to ensure our goals are being met every day.",
-        "Motivate and develop students to be excellent callers.",
-        "Personally raised over $50,000 for the univeristy."
+        "Motivate, train, and develop students to be excellent callers.",
+        "Personally raised over $100,000 for the univeristy over the phone."
       ]
     }
   ],
@@ -111,7 +121,7 @@
       "organization": "Arnold Air Society",
       "position": "Squadron Commander",
       "startDate": "2017-05-01",
-      "endDate": "Present",
+      "endDate": "2018-05-01",
       "summary": "Commander of the Lt. Col. Horace M. Hickam Squadron.",
       "highlights": [
         "Help advocate the support of aerospace power through community service.",
@@ -123,7 +133,7 @@
   "awards": [
     {
       "title": "AFROTC Commanders Leadership Scholarship",
-      "date": "2015-Present",
+      "date": "2015-2019",
       "awarder": "University of Hawaii Detachment 175 Commander",
       "summary": "Scholarship awarded to an incoming college student based on major, GPA, physical fitness, and an interview."
     }
