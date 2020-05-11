@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/dankbank.png
-title: ASCII Art Creator
+title: Dank Bank Database
 permalink:
 date: 2017
 labels:
