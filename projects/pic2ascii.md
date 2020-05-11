@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rgb2ascii.png
+image: images/rgb2asciithumbnail.png
 title: ASCII Art Creator
 permalink:
 date: 2018
