@@ -126,7 +126,20 @@
         "Sniff data packets and analyze collected information to find vulnerabilities in drone connections.",
         "Extensive use of Kali Linux and other sniffing/exploitation tools."
       ]
-    }
+    },
+    {
+      "company": "Jang Acupuncture Clinic",
+      "position": "Web Developer",
+      "website": "https://www.drjhawaii.com/",
+      "startDate": "2019-06",
+      "endDate": "2019-06",
+      "summary": "Developed a website for Jang Acupuncture Clinic",
+      "highlights": [
+        "Designed a clean, welcoming webpage for the medical company.",
+        "Utilized experiences in HTML/CSS and web development to create a professional website.",
+        "Trained company employees how to manage website and update information."
+      ]
+    },
   ],
   "volunteer": [
     {
