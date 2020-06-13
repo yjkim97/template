@@ -7,7 +7,7 @@ permalink: projects/tictactoe
 date: 2020
 labels:
   - Python
-summary: I learned Python in UCT so I learned to make a Tic Tac Toe application
+summary: After learning Pythono in UCT, I wanted to make a real application.
 ---
 
 ## Background
