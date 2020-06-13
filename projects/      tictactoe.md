@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Python Image.jpg
-title: Tic Tac Toe
+title: First Python Project: Tic Tac Toe GUI
 permalink: projects/tictactoe
 date: 2020
 labels:
