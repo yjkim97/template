@@ -11,7 +11,7 @@ summary: I learned Python in UCT so I learned to make a Tic Tac Toe application
 ---
 
 ## Background
-<img class="ui medium left floated image" src=images/tictactoe1.png>
+<img class="ui medium left floated image" src="..images/tictactoe1.png">
 During block 2 of Undergraduate Cyber Training for the USAF, I learned how to code in Python for the first time. While I had background experience in other coding languages, I was astonished to learn how easy it was to manipulate data in Python compared to other languages such as C or Java. Therefore, I decided to take more time to learn the language at a deeper level and started my project of building a Tic Tac Toe application.
 
 ## The Process
