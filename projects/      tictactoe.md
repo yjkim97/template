@@ -7,7 +7,7 @@ permalink: projects/tictactoe
 date: 2020
 labels:
   - Python
-summary: After learning Pythono in UCT, I wanted to make a real application.
+summary: After learning Python in UCT, I wanted to make a real application.
 ---
 
 ## Background
