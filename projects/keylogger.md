@@ -27,7 +27,7 @@ Here is what it looks like compared to the keystrokes.
 <img class="ui large middle rounded image" src="../images/keylogger3.png">
 
 ## Where a keylogger? (Starting to sound like Drax from Guardians of the Galaxy)
-Keyloggers are incredibly malicious when its executed on an environment with relaxed security standards. For example, if a company allows their employees to use social media on their work computers, the keylogger can find password information for their accounts, leading to other attacks such as social engineering. Furthermore, a keylogger planted on the right computer can expose the administrator password for an entire network. This allows attackers to lock down networks, execute ransomware, and change permission settings to further escalate privileges'. 
+Keyloggers are incredibly malicious when it is executed on an environment with relaxed security standards. For example, if a company allows their employees to use social media on their work computers, the keylogger can find password information for their accounts, leading to other attacks such as social engineering. Furthermore, a keylogger planted on the right computer can expose the administrator password for an entire network. This allows attackers to lock down networks, execute ransomware, and change permission settings to further escalate privileges'. 
 
 ## Disclaimer
 This code is made for educational purposes and was a project to understand how easy it was to create a simple, yet effective, malware. Do not use malware for illegal purposes.
