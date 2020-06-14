@@ -7,6 +7,7 @@ permalink: projects/tictactoe
 date: 2020
 labels:
   - Python
+  - Object Oriented Programming
 summary: After learning Python in UCT, I wanted to make a real application.
 ---
 
